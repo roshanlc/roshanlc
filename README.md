@@ -1,4 +1,9 @@
-### Backend Developer
+#### Hey, 🔆!
+- 🌱 I’m currently learning Go, JS.
+- 🛸 I've worked with Java (Spring Boot mostly)
+- 🔭 I’m currently working on some web applications.
+- ✨ FOSS enthusiast
+
 
 <!--
 **roshanlc/roshanlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

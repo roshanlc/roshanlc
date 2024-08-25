@@ -1,7 +1,7 @@
 #### Hey, 🔆!
-- 🌱 I’m currently learning Go, JS.
-- 🛸 I've worked with Java (Spring Boot mostly)
-- 🔭 I’m currently working on some web applications.
+- 🌱 I’m currently learning Kubernetes.
+- 🛸 I've worked with Java (Spring Boot mostly), Go, JS.
+- 🔭 I’m currently working on Kubernetes Operators.
 - ✨ FOSS enthusiast
 
 

@@ -1,5 +1,5 @@
 #### Hey, 🔆!
-- 🌱 I’m currently learning Kubernetes.
+- 🌱 I’m currently learning and working with Kubernetes.
 - 🛸 I've worked with Java (Spring Boot mostly), Go, JS.
 - 🔭 I’m currently working on Kubernetes Operators.
 - ✨ FOSS enthusiast
